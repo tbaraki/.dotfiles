@@ -4,11 +4,13 @@ import:
 env:
   TERM: xterm-256color
 
-#font:
-  #  normal:
-  #    family: FiraCode
-  #  bold:
-  #    family: FiraCode
-  #  italic:
-  #    family: FiraCode
-  #  size: 11
+font:
+  normal:
+    family: JetBrainsMono Nerd Font Mono 
+  monospace:
+    family: JetBrainsMono Nerd Font Mono 
+  bold:
+    family: JetBrainsMono Nerd Font Mono 
+  italic:
+    family: JetBrainsMono Nerd Font Mono 
+  size: 12
