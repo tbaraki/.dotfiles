@@ -1,0 +1,3 @@
+[submodule ".dotfiles/.config/alacritty/catppuccin"]
+	path = .dotfiles/.config/alacritty/catppuccin
+	url = git@github.com:catppuccin/alacritty.git
