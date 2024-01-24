@@ -1,0 +1,14 @@
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+
+env:
+  TERM: xterm-256color
+
+#font:
+  #  normal:
+  #    family: FiraCode
+  #  bold:
+  #    family: FiraCode
+  #  italic:
+  #    family: FiraCode
+  #  size: 11
