@@ -17,6 +17,8 @@ return {
                 -- Python
                 null_ls.builtins.formatting.black,
                 null_ls.builtins.formatting.isort,
+                -- Rust
+                null_ls.builtins.formatting.rust_analyzer,
             },
         })
 
