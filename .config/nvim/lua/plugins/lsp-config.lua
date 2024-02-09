@@ -20,6 +20,8 @@ return {
 
 			lspconfig.lua_ls.setup({})
 			lspconfig.terraformls.setup({})
+            lspconfig.rust_analyzer.setup({})
+
 
 			vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
 			vim.keymap.set("n", "gd", vim.lsp.buf.definition, {})
