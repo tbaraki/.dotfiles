@@ -6,3 +6,9 @@
 	url = https://github.com/tbaraki/.dotfiles.git
 [status]
 	showUntrackedFiles = no
+[remote "upstream"]
+	url = git@github.com:tbaraki/.dotfiles.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[branch "main"]
+	remote = git@github.com:tbaraki/.dotfiles.git
+	merge = refs/heads/main
